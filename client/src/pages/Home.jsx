@@ -9,7 +9,7 @@
                <div class ="container grid grid-two-cols">
                 <div className="hero-content">
                   <p>We are providing best services</p>
-                   <h1>Welcome to The SparksFoundation Bank</h1>
+                   <h1>Welcome to The Bank</h1>
                    <p>
                       our bank offers Net Banking Services & Personal banking services 
                       like Accounts & Deposite, Cards, Loans, Insurance & more.....
