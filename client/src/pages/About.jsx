@@ -14,8 +14,8 @@ export const About = () => {
             
                    <div className="content">
                    <p> <b>Kavita Kapkoti</b><br/>
-                    GRIP TheSparkFountaion Intern<br/>
-                     JAN24 Batch<br/>
+                    BTech CSE student<br/>
+                     JAN24<br/>
                      kkapkoti017@gmail.com.
                    </p>
                    </div>
