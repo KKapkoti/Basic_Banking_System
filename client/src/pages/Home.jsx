@@ -13,16 +13,12 @@
                   <p>
                Our bank offers comprehensive Net Banking and Personal Banking services tailored to meet your financial needs.
                We provide a wide range of services including:
+                <p>
+                  At <strong>TrueBank</strong>, we are committed to delivering a seamless and secure banking experience. 
+                  Our goal is to empower individuals and businesses by providing reliable financial services with a personal touch. 
+                  Whether you're managing your day-to-day expenses, planning for the future, or growing your business, 
+                  we are here to support you every step of the way. Join us today and take a step towards smarter banking.
                </p>
-                  <ul>
-                  <li>Accounts & Deposits – Savings, Current, Fixed Deposits, and more</li>
-                  <li>Debit & Credit Cards with exciting rewards and cashback offers</li>
-                  <li>Personal, Home, Education, and Business Loans with competitive interest rates</li>
-                  <li>Insurance solutions for Life, Health, and General Insurance</li>
-                  <li>24/7 Net Banking and Mobile Banking for easy access to your finances</li>
-                  <li>Secure fund transfers, bill payments, and investment options</li>
-                  </ul>
-               <p>
                Experience hassle-free banking with advanced digital services, robust customer support, and a strong commitment to your financial growth.
                </p>
                   
